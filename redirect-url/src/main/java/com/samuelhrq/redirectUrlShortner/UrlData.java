@@ -1,4 +1,4 @@
-package com.maxley.redirectUrlShortner;
+package com.samuelhqr.redirectUrlShortner;
 
 import lombok.AllArgsConstructor;
 import lombok.Getter;
