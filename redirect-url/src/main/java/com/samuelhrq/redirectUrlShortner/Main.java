@@ -1,4 +1,4 @@
-package com.maxley.redirectUrlShortner;
+package com.samuelhqr.redirectUrlShortner;
 
 import com.amazonaws.services.lambda.runtime.Context;
 import com.amazonaws.services.lambda.runtime.RequestHandler;
