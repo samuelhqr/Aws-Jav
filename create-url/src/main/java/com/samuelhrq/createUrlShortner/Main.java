@@ -1,4 +1,4 @@
-package com.maxley.createUrlShortner;
+package com.samuelhqr.createUrlShortner;
 
 import com.amazonaws.services.lambda.runtime.Context;
 import com.amazonaws.services.lambda.runtime.RequestHandler;
